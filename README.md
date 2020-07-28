@@ -6,7 +6,7 @@ I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com/
 
 ### 🎮 What I'm Working On 🕹
 
-With Katharos Technology I hope to get to develop the [Arsenal game engine](https://github.com/katharostech/arsenal) so that we can create the best user experience of any game engine out there 💪 while building on the [Blender](https://blender.org) and providing mind blowing performance through the power of Rust and the entity component system ( ECS ) design model 🏗️.
+With Katharos Technology I hope to develop the [Arsenal game engine](https://github.com/katharostech/arsenal) so that we can create the best user experience of any game engine out there 💪 while building on [Blender](https://blender.org) and providing mind blowing performance through the power of Rust and the entity component system ( ECS ) design model 🏗️.
 
 If you love Rust, Open Source, Games, Blender, High Performance, and amazing User Experience, you can [sponsor Arsenal development](https://github.com/sponsors/katharostech/) on GitHub.
  
