@@ -12,6 +12,8 @@ If you love Rust, Open Source, Games, Blender, High Performance, and amazing Use
  
  ### 📨 Contact
 
+You can contact me directly on any of the forums I'm on such as the [Rust users forum](https://users.rust-lang.org/u/zicklag/summary) or the [Amethyst forum](https://community.amethyst.rs/u/zicklag/summary).
+
 If you have questions or are interested in what we are doing at Katharos Technology, you can [contact us](https://katharostech.com/contact) on our website.
 
 <!--
