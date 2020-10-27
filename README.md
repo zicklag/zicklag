@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 
 ### Stats
 
+![](https://komarev.com/ghpvc/?username=iamazy&color=dc143c)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zicklag&show_icons=true)
