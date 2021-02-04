@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=iamazy&color=dc143c)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zicklag&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zicklag)](https://github.com/ryo-ma/github-profile-trophy)
+
