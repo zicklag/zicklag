@@ -11,7 +11,7 @@ With Katharos Technology I develop the [Bevy Retro](https://github.com/katharost
 ### What Would I Love to Make ( Though I Probably Won't Ever Get the Chance )
 
 - An beautiful and easy-to-use digital audio workstation that works great for recording and for synthesizing
-- A Linux desktop environment that makes you feel awesome and looks like it came out of a sciense fiction movie 
+- A Linux desktop environment or theme that makes you feel super-cool and smart because it looks like it came out of a sciense fiction movie 
 
 ### Contact 📨
 
