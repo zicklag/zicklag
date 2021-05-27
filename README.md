@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-I'm @zicklag, an Open Source enthusiast who dreams of making video games with Rust 🦀. The most important thing in my life is my God and Father to whom I owe everything.
+I'm @zicklag, an Open Source enthusiast who dreams of making video games with Rust. The most important thing in my life is my God and Father to whom I owe everything.
 
-I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com/), where I do most of my development. I love making tools that people will love to use and I enjoy making nice user interfaces, with [Juju Lens](https://github.com/katharostech/juju-lens) and [Katharostech.com](https://katharostech.com) being the best UI projects I've made. Our design motto at KatharosTech is "user experience first" and I really try to make sure that my solutions are full of user experience awesomeness 🙂.
+I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com/), where I do most of my development. I love making tools that people will love to use and I enjoy making nice user interfaces.
 
-### What I'm Working On 🕹
+### What I'm Working On
 
-With Katharos Technology I develop the [Arsenal game engine](https://github.com/katharostech/arsenal) so that we can create the best user experience of any game engine out there while building on [Blender](https://blender.org) and providing mind blowing performance through the power of Rust and the entity component system ( ECS ) design model.
+With Katharos Technology I develop the [Bevy Retro](https://github.com/katharostech/bevy_retro) game library in support of our first demo game, [Bounty Bros](https://katharostech.com/post/bounty-bros-on-web). I contribute to lots of different Open Source projects as I have time, usually in an effort to supply what we need for game development at Katharos Tech.
 
-If you love Rust, Open Source, Games, Blender, High Performance, and amazing User Experience, you can [sponsor Arsenal development](https://opencollective.com/arsenal) on Open Collective.
- 
- ### Contact 📨
+### What Would I Love to Make ( Though I Probably Won't Ever Get the Chance )
+
+- An beautiful and easy-to-use digital audio workstation that works great for recording and for synthesizing
+- A Linux desktop environment that makes you feel awesome and looks like it came out of a sciense fiction movie 
+
+### Contact 📨
 
 You can contact me directly on any of the forums I'm on such as the [Rust users forum](https://users.rust-lang.org/u/zicklag/summary) or the [Amethyst forum](https://community.amethyst.rs/u/zicklag/summary).
 
@@ -37,5 +40,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zicklag&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zicklag)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zicklag)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
