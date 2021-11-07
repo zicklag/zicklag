@@ -4,7 +4,7 @@ I'm a self-taught software & DevOps engineer with a passion for producing high q
 
 I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com), where we try to devevelop technology that is pure and uplifting. The most important thing in my life is my God and Father to whom I owe everything.
 
-## Random Facts
+## Random Facts 💡
 
 - **Things I'm Good At**
   - Anything programming or computers
