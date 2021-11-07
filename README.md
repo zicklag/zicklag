@@ -1,21 +1,35 @@
-### Hi there 👋
+# Hi There! 👋
 
-I'm @zicklag, an Open Source enthusiast who dreams of making video games with Rust. The most important thing in my life is my God and Father to whom I owe everything.
+I'm a self-taught software & DevOps engineer with a passion for producing high quality solutions to real-world problems. I pick up new languages and ecosystems quickly and have recently been really getting into blockchain!
 
-I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com/), where I do most of my development. I love making tools that people will love to use and I enjoy making nice user interfaces.
+I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com), where we try to devevelop technology that is pure and uplifting. The most important thing in my life is my God and Father to whom I owe everything.
 
-### What I'm Working On
+## Random Facts
 
-With Katharos Technology I develop the [Bevy Retro](https://github.com/katharostech/bevy_retro) game library in support of our first demo game, [Bounty Bros](https://katharostech.com/post/bounty-bros-on-web). I contribute to lots of different Open Source projects as I have time, usually in an effort to supply what we need for game development at Katharos Tech.
+- **Things I'm Good At**
+  - Anything programming or computers
+  - Tying knots
+  - Making storylines
+- **Things I'm Bad At**
+  - Finding things around the house
+- **Things I Would Love to Do ( That I Probably Won't Ever Get the Chance To )**
+  - Making a beautiful digital audio workstation that is great for recording and synthesizing
+  - Make a ultra-cool looking computer OS or GUI that looks like it came out of a science fiction movie
+  - Make movies with my brothers and the awesome storylines that we come up with
 
-### What Would I Love to Make ( Though I Probably Won't Ever Get the Chance )
+## Supporting My Work 🚀
 
-- An beautiful and easy-to-use digital audio workstation that works great for recording and for synthesizing
-- A Linux desktop environment or theme that makes you feel super-cool and smart because it looks like it came out of a science fiction movie 
+If you have been helped by my contributions here on GitHub or anywhere else and want to say thanks, you can tip me in crypto! I appreciate any amount, no matter how small. Tips will help me learn more about crypto and hopefully allow me to help more people too!
 
-### Contact 📨
+I don't care what kind of tokens, that's what exchanges are for. 🙂
+- **Solana & SPL Tokens:** `9ftYTyetEXtLtDkhfRF8bCWGfKZqiYmx2HDZDTogZh6A`
+- **Ether & ERC-20 Tokens:** `0x6CFC15d4120990FDad169d39fF57241a49fe4939`
 
-You can contact me directly on any of the forums I'm on such as the [Rust users forum](https://users.rust-lang.org/u/zicklag/summary) or the [Amethyst forum](https://community.amethyst.rs/u/zicklag/summary).
+Thank you!
+
+## Contact 📨
+
+You can contact me directly on any of the forums I'm on such as the [Rust users forum](https://users.rust-lang.org/u/zicklag/summary), the [Amethyst forum](https://community.amethyst.rs/u/zicklag/summary), or the [Solana Forum](https://forums.solana.com/u/zicklag/summary).
 
 If you have questions or are interested in what we are doing at Katharos Technology, you can [contact us](https://katharostech.com/contact) on our website.
 
@@ -34,7 +48,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Stats
+## Stats
 
 ![](https://komarev.com/ghpvc/?username=zicklag&color=dc143c)
 
