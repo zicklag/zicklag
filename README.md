@@ -19,7 +19,7 @@ I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com)
 
 ## Supporting My Work 🚀
 
-If you have been helped by my contributions here on GitHub or anywhere else and want to say thanks, you can tip me in crypto, or on [GitHub Sponsors](https://github.com/sponsors/zicklag)! I appreciate any amount, no matter how small. Tips will help me learn more about crypto and hopefully allow me to help more people too!
+If you have been helped by my contributions here on GitHub or anywhere else and want to say thanks, you can tip me in crypto, or on [GitHub Sponsors](https://github.com/sponsors/zicklag)! I appreciate any amount, no matter how small. Tips will help me continue learning, developing, contributing, and hopefully allow me to help more people too!
 
 I don't care what kind of tokens, that's what exchanges are for. 🙂
 - **Solana & SPL Tokens:** `BE5xzCpwikZGDu7Gmbs33vgEAXxWTuJYWjZrqkFFexZy`
