@@ -50,9 +50,6 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=zicklag&color=dc143c)
+![](https://komarev.com/ghpvc/?username=zicklag&color=2D41B0)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zicklag&show_icons=true)
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zicklag)](https://github.com/ryo-ma/github-profile-trophy)
- -->
+![GitHub Stats](./github-metrics.svg)
