@@ -99,7 +99,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Zicklag
+          user: katharostech
           template: classic
           base: ""
           #config_timezone: ${{ secrets.USER_TIMEZONE }}
