@@ -52,4 +52,29 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=zicklag&color=2D41B0)
 
-![GitHub Stats](./github-metrics.svg)
+<a href="https://github.com/Byron">
+  <img align="top" width="50%" src="./.metrics/header.svg" />
+</a>
+<br/>
+<a href="https://github.com/Byron">
+  <img align="top" width="50%" src="./.metrics/repositories.svg" />
+</a>
+<a href="https://github.com/Byron">
+  <img align="top" width="49%" src="./.metrics/acti_comm.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+  <img align="top" width="50%" src="./.metrics/iso_calender.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+    <img align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+    <img align="top" width="50%" src="./.metrics/sponsors.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+    <img align="top" width="49%" src="./.metrics/achievements.svg" />
+</a>
