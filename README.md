@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     <img align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
 </a>
 
-<a href="https://github.com/zicklag">
+<a href="https://github.com/sponsors/zicklag">
     <img align="top" width="50%" src="./.metrics/sponsors.svg" />
 </a>
 
