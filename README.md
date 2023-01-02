@@ -1,6 +1,9 @@
 # Hi There! 👋
 
-I'm a self-taught software & DevOps engineer with a passion for producing high quality solutions to real-world problems. I pick up new languages and ecosystems quickly and have recently been really getting into blockchain!
+I'm a self-taught software & DevOps engineer with a passion for producing high quality solutions to real-world problems. I pick up new languages and ecosystems quickly and have recently been developing the [Jumpy] game and the [Bones] meta-engine!
+
+[jumpy]: https://github.com/fishfolk/jumpy
+[bones]: https://github.com/fishfolk/bones
 
 I'm the Chief Technology Lead at [Katharos Technology](https://katharostech.com), where we try to devevelop technology that is pure and uplifting. The most important thing in my life is my God and Father to whom I owe everything.
 
