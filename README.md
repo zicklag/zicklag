@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-I'm a self-taught software & DevOps engineer with a passion for producing high quality solutions to real-world problems. I pick up new languages and ecosystems quickly and have recently been developing the [Jumpy] game and the [Bones] meta-engine!
+I'm a self-taught software & DevOps engineer with a passion for producing high quality solutions to real-world problems. I pick up new languages and ecosystems quickly and have recently been developing the [Jumpy] game and the [Bones] game engine!
 
 [jumpy]: https://github.com/fishfolk/jumpy
 [bones]: https://github.com/fishfolk/bones
