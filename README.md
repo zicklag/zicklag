@@ -53,12 +53,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Profiles
-
-<ul>
-  <li><a rel="me" href="https://mastodon.social/@zicklag">Mastodon</a></li>
-</ul>
-
 ## Stats
 
 ![](https://komarev.com/ghpvc/?username=zicklag&color=2D41B0)
