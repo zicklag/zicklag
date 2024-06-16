@@ -34,9 +34,7 @@ Thank you!
 
 ## Contact 📨
 
-You can contact me directly on any of the forums I'm on such as the [Rust users forum](https://users.rust-lang.org/u/zicklag/summary), the [Amethyst forum](https://community.amethyst.rs/u/zicklag/summary), or the [Solana Forum](https://forums.solana.com/u/zicklag/summary).
-
-If you have questions or are interested in what we are doing at Katharos Technology, you can [contact us](https://katharostech.com/contact) on our website.
+You can contact me directly on any of the forums I'm on such as the [Rust users forum](https://users.rust-lang.org/u/zicklag/summary).
 
 <!--
 **zicklag/zicklag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
