@@ -26,10 +26,6 @@ I also have a [blog](https://zicklag.github.io/blog) where I write about stuff I
 
 If you have been helped by my contributions here on GitHub or anywhere else and want to say thanks, you can tip me in crypto, or on [GitHub Sponsors](https://github.com/sponsors/zicklag)! I appreciate any amount, no matter how small. Tips will help me continue learning, developing, contributing, and hopefully allow me to help more people too!
 
-I don't care what kind of tokens, that's what exchanges are for. 🙂
-- **Solana & SPL Tokens:** `BE5xzCpwikZGDu7Gmbs33vgEAXxWTuJYWjZrqkFFexZy`
-- **Ether & ERC-20 Tokens:** `0x6CFC15d4120990FDad169d39fF57241a49fe4939`
-
 Thank you!
 
 ## Contact 📨
